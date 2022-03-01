@@ -1,5 +1,7 @@
 # SHOP APP WITH REDUX AND REACT-HOOKS
 
+Since I made this project for learning redux and react-hooks, I've used both class component and react-hooks.
+
 Database is a .json file named db.json in the api folder. Source => https://github.com/typicode/json-server
 
 # Home Page (Categories, Products, Cart, Add and Remove Nodifications)
