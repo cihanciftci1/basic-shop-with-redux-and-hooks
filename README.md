@@ -1,6 +1,6 @@
 # SHOP APP WITH REDUX AND REACT-HOOKS
 
-Database is a .json file named db.json in the api folder. 
+Database is a .json file named db.json in the api folder. Source => https://github.com/typicode/json-server
 
 # Home Page (Categories, Products, Cart, Add and Remove Nodifications)
 ![1](https://user-images.githubusercontent.com/72259867/156246465-21c97bbe-83ff-47c1-a8c7-f9c29c93fb35.png)
