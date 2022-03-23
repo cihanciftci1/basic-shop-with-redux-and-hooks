@@ -4,7 +4,7 @@ Since I made this project for learning redux and react-hooks, I've used both cla
 
 Database is a .json file named db.json in the api folder. Source => https://github.com/typicode/json-server
 
-# Home Page (Categories, Products, Cart, Add and Remove Nodifications)
+# Home Page (Categories, Products, Cart, Add and Remove Notifications)
 ![1](https://user-images.githubusercontent.com/72259867/156246465-21c97bbe-83ff-47c1-a8c7-f9c29c93fb35.png)
 
 # Cart Detail
